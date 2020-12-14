@@ -27,6 +27,7 @@
     <item>
       <title>Episode 3</title>
       <description>Jamie chats with Ciarán Lee about going fast. Bonus Performance Team update. Released 11th December 2020</description>
+      <pubDate>Fri, 11 Dec 2020 00:00:00</pubDate>
       <enclosure url="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c1ec9f44-3cee-455d-be9c-64e7def35f7d/goingfast.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201214T013803Z&X-Amz-Expires=86400&X-Amz-Signature=1530aa583ce3f0bd87ae4f74b4e3dc3a5f945f5f2d11253d65fe3012bd18b078&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22goingfast.mp3%22" length="32838761" type="audio/mpeg"/>
       <guid isPermaLink="false">thirdepisode</guid>
     </item>

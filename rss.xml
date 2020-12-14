@@ -6,8 +6,10 @@
     <title>Testing Podcast</title>
     <googleplay:owner>noreply@example.com</googleplay:owner>
     <googleplay:author>Norm</googleplay:author>
+    <itunes:author>Norm</itunes:author>
     <description>Testing if an rss feed works</description>
     <googleplay:image href="https://the-hash-slinging-slasher.github.io/logo.jpeg"/>
+    <image><url>https://the-hash-slinging-slasher.github.io/logo.jpeg</url></image>
     <language>en-us</language>
     <link>https://the-hash-slinging-slasher.github.io</link>
     <item>

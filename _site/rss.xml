@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Jamie's Birdhouse</title>
+        <link>https://www.notion.so/intercomrades/Engineering-chats-f09f397ac2974ee3952fdcba8e6b04e5#852b28902f25454383c189bc6c9a9ba4</link>
+        <language>en-us</language>
+        <itunes:subtitle>Come 'n' get yer birdfood</itunes:subtitle>
+        <itunes:author>Jamie Osler</itunes:author>
+        <itunes:summary>Jamie talks to everyone in the company. One at a time.</itunes:summary>
+        <description>Jamie talks to everyone in the company. One at a time.</description>
+        <itunes:owner>
+            <itunes:name>Jamie Osler</itunes:name>
+            <itunes:email>jamie@intercom.io</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://resize.hswstatic.com/w_796/gif/macaw.jpg" />
+
+        <item>
+          <title>Episode 1 - Mike Stewart</title>
+          <itunes:summary>Jamie chats with Mike Stewart about disambiguation. Released on 15th October 2020</itunes:summary>
+          <description>Jamie chats with Mike Stewart about disambiguation. Released on 15th October 2020</description>
+          <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+          <enclosure url="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0e5291c7-3d2f-4e87-9e89-5021217327c0/mike-and-jamie-chat-about-disambiguation.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201214T013254Z&X-Amz-Expires=86400&X-Amz-Signature=ef44a19a52e248bbd5b0fd281867790d437e470d99d333331cfb1e10154c3ca0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22mike-and-jamie-chat-about-disambiguation.mp3%22" length="30559004" type="audio/mpeg"/>
+          <guid isPermaLink="false">firstepisode</guid>
+        </item>
+        <item>
+          <title>Episode 2 - Brian Scanlan</title>
+          <itunes:summary>Jamie chats with Brian Scanlan about outages. Released on 11th November 2020</itunes:summary>
+          <description>Jamie chats with Brian Scanlan about outages. Released on 11th November 2020</description>
+          <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+          <enclosure url="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/949e7d43-ad22-44b6-9f1d-abd6cbf0e5be/outages.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201214T013746Z&X-Amz-Expires=86400&X-Amz-Signature=73abcd97e41e08df2a837a4722264c1a23b027f5b04609c12bc48c6dde94838d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22outages.mp3%22" length="25444645" type="audio/mpeg"/>
+          <guid isPermaLink="false">secondepisode</guid>
+        </item>
+        <item>
+          <title>Episode 3 - Ciarán Lee</title>
+          <itunes:summary>Jamie chats with Ciarán Lee about going fast. Bonus Performance Team update. Released 11th December 2020</itunes:summary>
+          <description>Jamie chats with Ciarán Lee about going fast. Bonus Performance Team update. Released 11th December 2020</description>
+          <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+          <enclosure url="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c1ec9f44-3cee-455d-be9c-64e7def35f7d/goingfast.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201214T013803Z&X-Amz-Expires=86400&X-Amz-Signature=1530aa583ce3f0bd87ae4f74b4e3dc3a5f945f5f2d11253d65fe3012bd18b078&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22goingfast.mp3%22" length="32838761" type="audio/mpeg"/>
+          <guid isPermaLink="false">thirdepisode</guid>            
+        </item> 
+
+    </channel>
+</rss>

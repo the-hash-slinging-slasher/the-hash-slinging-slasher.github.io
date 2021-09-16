@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-## what's being posted here?
